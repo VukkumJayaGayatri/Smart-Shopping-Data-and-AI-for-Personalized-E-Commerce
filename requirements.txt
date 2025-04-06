@@ -1,0 +1,4 @@
+ollama
+sqlite3
+pandas
+flask
